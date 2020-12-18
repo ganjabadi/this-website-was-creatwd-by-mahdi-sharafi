@@ -196,9 +196,12 @@ COVID-19 1
 آگاهی داشته باشید. برای داشتن اطلاعات به روز درباره بیماری کرونا به منابع معتبری مانند یونیسف، سازمان بهداشت جهانی
 و توصیههای وزارت بهداشت کشور خود رجوع کنید. نسبت به اطلاعات نادرست/شایعاتی که دهان به دهان نقل میشوند یا در
 فضای مجازی پخش میشود هشیار باشید
-   body{
-          background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo2KjEc5lvHRtMIM3Cacdp0jydzG1vRGADlw&usqp=CAU)
-   no-repeat;
-  }
-          
+<!DOCTYPE html>
+  <html>
+   <body>
+    
+    <img src="https://media.mehrnews.com/d/2020/09/05/4/3546445.jpg">
+     
+    </body>
+    </html>
    
