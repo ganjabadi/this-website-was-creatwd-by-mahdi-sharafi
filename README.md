@@ -196,4 +196,8 @@ COVID-19 1
 آگاهی داشته باشید. برای داشتن اطلاعات به روز درباره بیماری کرونا به منابع معتبری مانند یونیسف، سازمان بهداشت جهانی
 و توصیههای وزارت بهداشت کشور خود رجوع کنید. نسبت به اطلاعات نادرست/شایعاتی که دهان به دهان نقل میشوند یا در
 فضای مجازی پخش میشود هشیار باشید
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fim-media.voltron.voanews.com%2FDrupal%2F01live-201%2Fstyles%2F892x501%2Fs3%2F2020-09%2F4480809.jpg%3Fitok%3DGU-SG1eP&imgrefurl=https%3A%2F%2Fir.voanews.com%2Flatestnews%2Firan-corona-virus-government-school-reopening&tbnid=FXlhsaqrVauKyM&vet=12ahUKEwjS_K_Un9ftAhVT44UKHZN4BskQMygNegUIARCWAQ..i&docid=PTC-h0H9SICLyM&w=892&h=501&q=%DA%A9%D8%B1%D9%88%D9%86%D8%A7%20%D8%AF%D8%B1%20%D9%85%D8%AF%D8%A7%D8%B1%D8%B3&ved=2ahUKEwjS_K_Un9ftAhVT44UKHZN4BskQMygNegUIARCWAQ">
+  <!DOCTYPE html>
+  <html>
+   <body>
+    
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mehrnews.com%2Fphoto%2F5016050%2F%25D8%25A8%25D8%25A7%25D8%25B2%25DA%25AF%25D8%25B4%25D8%25AA-%25D8%25A8%25D9%2587-%25D9%2585%25D8%25AF%25D8%25B1%25D8%25B3%25D9%2587-%25D8%25AF%25D8%25B1-%25D8%25B3%25D8%25A7%25DB%258C%25D9%2587-%25DA%25A9%25D8%25B1%25D9%2588%25D9%2586%25D8%25A7&psig=AOvVaw1wFFwWJD8E6uPxilHl46ls&ust=1608371172237000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiwkeeg1-0CFQAAAAAdAAAAABAD">
