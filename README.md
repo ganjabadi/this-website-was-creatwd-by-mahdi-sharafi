@@ -169,7 +169,8 @@ COVID-19 1
 دهید و در صورت نیاز، اقدامات حمایتی ترتیب دهید.
   <html>
    <body>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fir.voanews.com%2Flatestnews%2Firan-corona-virus-government-school-reopening&psig=AOvVaw1wFFwWJD8E6uPxilHl46ls&ust=1608371172237000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiZ1Jiy1-0CFQAAAAAdAAAAABAD">
+    
+    <img src="http://qom.irib.ir/documents/589652/649745/%D9%85%D8%AF%D8%B1%D8%B3%D9%87-1.jpg">
     
     </body>
     </html>
