@@ -10,7 +10,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
   <meta http-equiv="content-language" content="fa"> 
   <meta name="enamad" content="480390"> 
-  <meta property="og:title" content=" کرونا چیست؟
+  =" کرونا چیست؟
 COVID-19 1
 ، بیماری ناشی از یک نوع جدید از ویروس کرونا است. در زبان انگلیسی، 'CO 'مخفف کرونا )Corona' ،)VI'
 مخفف ویروس )Virus ،)و 'D 'مخفف بیماری )Disease )است. این بیماری در ابتدا با عبارت »ویروس کرونای جدید سال 
