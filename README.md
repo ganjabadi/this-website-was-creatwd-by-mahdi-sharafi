@@ -209,7 +209,7 @@ COVID-19 1
    <body>
     
     
-    <img src="http://qom.irib.ir/documents/589652/649745/%D9%85%D8%AF%D8%B1%D8%B3%D9%87-1.jpg">
+    <img src="blob:https://web.whatsapp.com/02930039-efa5-432d-a176-8ea97eceeb60">
     
     </body>
     </hl>tm
