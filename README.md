@@ -207,9 +207,4 @@ COVID-19 1
 <!DOCTYPE html>
   <html>
    <body>
-    
-    
-    <img src="blob:https://web.whatsapp.com/02930039-efa5-432d-a176-8ea97eceeb60">
-    
-    </body>
-    </html>
+   
