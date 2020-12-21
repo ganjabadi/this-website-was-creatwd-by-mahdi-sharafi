@@ -207,6 +207,4 @@ COVID-19 1
 
 
 
- <!-- Online Support by www.1abzar.com --->
-<script type="text/javascript" src="https://online.1abzar.com/1abzar.php?admin=3069521&mail=1&on=online&off=offline"></script><div style="display:none"><h3><a href="http://www.1abzar.com">&#1662;&#1588;&#1578;&#1740;&#1576;&#1575;&#1606;&#1740;</a></h3></div>
-<!-- Online Support by www.1abzar.com --->  
+ <script type="text/javascript">!function(){function t(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,localStorage.getItem("rayToken")?t.src="https://app.raychat.io/scripts/js/"+o+"?rid="+localStorage.getItem("rayToken")+"&href="+window.location.href:t.src="https://app.raychat.io/scripts/js/"+o+"?href="+window.location.href;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}var e=document,a=window,o="23b156f4-de15-4581-ba6d-71cc863c4a15";"complete"==e.readyState?t():a.attachEvent?a.attachEvent("onload",t):a.addEventListener("load",t,!1)}();</script>
